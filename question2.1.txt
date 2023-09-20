@@ -12,3 +12,12 @@ mkdir "Project 1"
 #create text file to keep the code
 touch question2.1.txt
 
+#open "question2.1.txt" to edit & save
+start question2.1.txt
+
+# add the updated file
+git add *
+# commit the updated file
+git commit -m"I added all the codes for project 1"
+# push the updated file
+git push
