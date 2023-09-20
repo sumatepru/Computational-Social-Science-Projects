@@ -1,0 +1,14 @@
+# the code for Project 1
+# creat repo "Cpomutational-Social-Science-Projects" in github
+#clone
+git clone https://github.com/sumatepru/Cpomutational-Social-Science-Projects.git
+
+#go to "Cpomutational-Social-Science-Projects" directory
+cd Computational-Social-Science-Projects
+
+#create "Project 1" folder
+mkdir "Project 1"
+
+#create text file to keep the code
+touch question2.1.txt
+
